@@ -1,0 +1,15 @@
+<template>
+
+</template>
+
+<style>
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    widows: 100%;
+    height: 100vh;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(7,0,227,1) 100%);
+};
+</style>
