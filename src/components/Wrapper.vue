@@ -117,6 +117,7 @@
 }
 .buttonDis:disabled {
   background: #D8C3A5;
+  color: #000;
 }
 .textData {
   font-size: 30px;
